@@ -1,6 +1,5 @@
 import React from 'react';
 import ItemList from './ItemList';
-import AddItem from './AddItem';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure Bootstrap CSS is imported
 
 const App = () => {
