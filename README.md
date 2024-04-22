@@ -6,7 +6,7 @@ A multi-container shopping list application that allows CRUD operations. This pr
 
 To run this application with Docker Compose, follow these steps:
 
-1. **Build & Run the Docker Images**: Run the following command in the directory that contains both the frontend and backend subdirectories.
+1. **Build & Run the Docker Images**: Run the following command in the directory that contains the docker-compose.yml file as well as both the frontend and backend subdirectories.
    
     ```bash
     docker-compose up --build
